@@ -1,0 +1,5 @@
+streamlit==1.19.0
+numpy==0.20.0
+opencv-python==4.5.3.56
+onnxruntime==1.10.0
+matplotlib==3.4.3
